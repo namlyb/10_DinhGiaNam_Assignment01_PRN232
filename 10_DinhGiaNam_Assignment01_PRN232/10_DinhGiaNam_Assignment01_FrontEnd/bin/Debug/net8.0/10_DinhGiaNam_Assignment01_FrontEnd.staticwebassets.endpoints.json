@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Oct 2026 21:04:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.tq0nez2a5b.css",
+      "AssetFile": "css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Oct 2026 21:04:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tq0nez2a5b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8="
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        }
+      ]
+    }
+  ]
+}

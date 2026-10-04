@@ -1,0 +1,3 @@
+@model List<NewsVm>
+<h1>News Statistic Report</h1><form class="search"><label>Start date <input type="date" name="startDate" value="@ViewBag.Start"/></label><label>End date <input type="date" name="endDate" value="@ViewBag.End"/></label><button>Generate</button></form><p><strong>Total articles:</strong> @Model.Count</p>
+<table><thead><tr><th>Date</th><th>ID</th><th>Title</th><th>Category</th><th>Status</th><th>Created by</th></tr></thead><tbody>@foreach(var n in Model){<tr><td>@n.CreatedDate?.ToString("dd/MM/yyyy HH:mm")</td><td>@n.NewsArticleId</td><td>@n.NewsTitle</td><td>@n.Category?.CategoryName</td><td>@(n.NewsStatus?"Active":"Inactive")</td><td>@n.CreatedBy?.AccountName</td></tr>}</tbody></table>

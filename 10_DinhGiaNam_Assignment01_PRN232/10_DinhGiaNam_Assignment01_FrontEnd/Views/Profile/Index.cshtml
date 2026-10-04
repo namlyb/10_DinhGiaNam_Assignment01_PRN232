@@ -1,0 +1,2 @@
+@model AccountVm
+<h1>My Profile</h1><form method="post" asp-action="Save" class="profile"><input type="hidden" asp-for="AccountId"/><label>Name<input asp-for="AccountName"/></label><label>Email<input asp-for="AccountEmail" type="email"/></label><label>Password<input asp-for="AccountPassword"/></label><button>Save profile</button></form>

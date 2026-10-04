@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "uQ+5Al9I7pFgX/TE1PIgjCVDAZYT1rrMEF3tdzJTomg=",
+  "Source": "10_DinhGiaNam_Assignment01_FrontEnd",
+  "BasePath": "_content/10_DinhGiaNam_Assignment01_FrontEnd",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "10_DinhGiaNam_Assignment01_FrontEnd\\wwwroot",
+      "Source": "10_DinhGiaNam_Assignment01_FrontEnd",
+      "ContentRoot": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\wwwroot\\",
+      "BasePath": "_content/10_DinhGiaNam_Assignment01_FrontEnd",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\wwwroot\\css\\site.css",
+      "SourceId": "10_DinhGiaNam_Assignment01_FrontEnd",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\wwwroot\\",
+      "BasePath": "_content/10_DinhGiaNam_Assignment01_FrontEnd",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tq0nez2a5b",
+      "Integrity": "hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Oct 2026 21:04:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.tq0nez2a5b.css",
+      "AssetFile": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2387"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 04 Oct 2026 21:04:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tq0nez2a5b"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hT05ZmcE8H8PA+h2arQeYWrANO0ayx6Axg9rOxaecO8="
+        }
+      ]
+    }
+  ]
+}

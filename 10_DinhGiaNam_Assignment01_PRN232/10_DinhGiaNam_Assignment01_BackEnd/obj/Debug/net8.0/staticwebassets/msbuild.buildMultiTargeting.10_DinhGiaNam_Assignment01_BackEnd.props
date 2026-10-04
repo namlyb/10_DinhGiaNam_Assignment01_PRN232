@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\10_DinhGiaNam_Assignment01_BackEnd.props" />
+</Project>

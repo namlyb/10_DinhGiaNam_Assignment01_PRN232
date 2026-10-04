@@ -1,32 +1,14 @@
-using _10_DinhGiaNam_Assignment01_FrontEnd.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Diagnostics;
+using _10_DinhGiaNam_Assignment01_FrontEnd.Models;
+using _10_DinhGiaNam_Assignment01_FrontEnd.Services;
 
-namespace _10_DinhGiaNam_Assignment01_FrontEnd.Controllers
+namespace _10_DinhGiaNam_Assignment01_FrontEnd.Controllers;
+public class HomeController : Controller
 {
-    public class HomeController : Controller
+    private readonly ApiClient _api; public HomeController(ApiClient api) => _api = api;
+    public async Task<IActionResult> Index(string? search = null)
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
-        }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
+        var url = "api/news/public" + (string.IsNullOrWhiteSpace(search) ? "" : "?search=" + Uri.EscapeDataString(search));
+        ViewBag.Search = search; return View(await _api.GetAsync<List<NewsVm>>(url) ?? new());
     }
 }

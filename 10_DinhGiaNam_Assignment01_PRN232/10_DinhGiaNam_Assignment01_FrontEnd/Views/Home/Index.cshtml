@@ -1,8 +1,7 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
-}
-
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+@model List<NewsVm>
+<h1>Latest active news</h1>
+<form class="search"><input name="search" value="@ViewBag.Search" placeholder="Search news..."/><button>Search</button></form>
+<div class="cards">
+@foreach (var n in Model) { <article class="card"><div class="meta">@(n.Category?.CategoryName ?? "Uncategorized") · @n.CreatedDate?.ToString("dd/MM/yyyy")</div><h2>@n.NewsTitle</h2><h3>@n.Headline</h3><p>@n.NewsContent</p><small>Source: @n.NewsSource</small>@if(n.Tags.Any()){<div class="tags">@foreach(var t in n.Tags){<span>#@t.TagName</span>}</div>}</article> }
+@if(!Model.Any()){<p>No active news found.</p>}
 </div>
