@@ -1,3 +1,4 @@
+using System.Net.Http.Headers;
 using System.Net.Http.Json;
 using System.Text.Json;
 
@@ -14,9 +15,9 @@ public class ApiClient
     {
         var c = _factory.CreateClient("Backend");
         var s = _http.HttpContext?.Session;
-        var role = s?.GetString("Role"); var id = s?.GetString("AccountId");
-        if (!string.IsNullOrEmpty(role)) c.DefaultRequestHeaders.Add("X-User-Role", role);
-        if (!string.IsNullOrEmpty(id)) c.DefaultRequestHeaders.Add("X-User-Id", id);
+        var token = s?.GetString("AccessToken");
+        if (!string.IsNullOrWhiteSpace(token))
+            c.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", token);
         return c;
     }
 

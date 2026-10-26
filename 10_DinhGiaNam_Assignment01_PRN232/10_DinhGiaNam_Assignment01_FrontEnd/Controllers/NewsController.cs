@@ -13,16 +13,28 @@ public class NewsController : Controller
         var url = history ? "api/news/history" : "api/news" + (string.IsNullOrWhiteSpace(search) ? "" : "?search=" + Uri.EscapeDataString(search));
         return View(new NewsPageVm { News = await _api.GetAsync<List<NewsVm>>(url) ?? new(), Categories = await _api.GetAsync<List<CategoryVm>>("api/categories") ?? new(), Tags = await _api.GetAsync<List<TagVm>>("api/tags") ?? new(), Search = search });
     }
-    [HttpPost] public async Task<IActionResult> Create(NewsVm vm) { if (!Staff) return StatusCode(
+    [HttpPost]
+    public async Task<IActionResult> Create(NewsVm vm)
+    {
+        if (!Staff) return StatusCode(
     StatusCodes.Status403Forbidden,
     new { message = "Forbidden" }
-); var r = await _api.SendAsync<NewsVm>(HttpMethod.Post, "api/news", vm); TempData[r.ok ? "Ok" : "Error"] = r.ok ? "News created." : r.message; return RedirectToAction(nameof(Index)); }
-    [HttpPost] public async Task<IActionResult> Edit(NewsVm vm) { if (!Staff) return StatusCode(
+); var r = await _api.SendAsync<NewsVm>(HttpMethod.Post, "api/news", vm); TempData[r.ok ? "Ok" : "Error"] = r.ok ? "News created." : r.message; return RedirectToAction(nameof(Index));
+    }
+    [HttpPost]
+    public async Task<IActionResult> Edit(NewsVm vm)
+    {
+        if (!Staff) return StatusCode(
     StatusCodes.Status403Forbidden,
     new { message = "Forbidden" }
-); var r = await _api.SendAsync<object>(HttpMethod.Put, $"api/news/{vm.NewsArticleId}", vm); TempData[r.ok ? "Ok" : "Error"] = r.ok ? "News updated." : r.message; return RedirectToAction(nameof(Index)); }
-    [HttpPost] public async Task<IActionResult> Delete(string id) { if (!Staff) return StatusCode(
+); var r = await _api.SendAsync<object>(HttpMethod.Put, $"api/news/{vm.NewsArticleId}", vm); TempData[r.ok ? "Ok" : "Error"] = r.ok ? "News updated." : r.message; return RedirectToAction(nameof(Index));
+    }
+    [HttpPost]
+    public async Task<IActionResult> Delete(string id)
+    {
+        if (!Staff) return StatusCode(
     StatusCodes.Status403Forbidden,
     new { message = "Forbidden" }
-); var r = await _api.SendAsync<object>(HttpMethod.Delete, $"api/news/{id}"); TempData[r.ok ? "Ok" : "Error"] = r.ok ? "News deleted." : r.message; return RedirectToAction(nameof(Index)); }
+); var r = await _api.SendAsync<object>(HttpMethod.Delete, $"api/news/{id}"); TempData[r.ok ? "Ok" : "Error"] = r.ok ? "News deleted." : r.message; return RedirectToAction(nameof(Index));
+    }
 }

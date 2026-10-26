@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OData.Query;
 using _10_DinhGiaNam_Assignment01_BackEnd.DTOs;
@@ -6,6 +7,7 @@ using _10_DinhGiaNam_Assignment01_BackEnd.Repositories;
 namespace _10_DinhGiaNam_Assignment01_BackEnd.Controllers;
 
 [ApiController]
+[Authorize(Roles = "Staff")]
 [Route("api/categories")]
 public class CategoriesController : ControllerBase
 {

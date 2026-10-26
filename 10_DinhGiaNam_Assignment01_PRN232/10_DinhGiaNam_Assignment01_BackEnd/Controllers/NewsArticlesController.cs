@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OData.Query;
 using _10_DinhGiaNam_Assignment01_BackEnd.DTOs;
@@ -6,21 +7,25 @@ using _10_DinhGiaNam_Assignment01_BackEnd.Repositories;
 namespace _10_DinhGiaNam_Assignment01_BackEnd.Controllers;
 
 [ApiController]
+[Authorize]
 [Route("api/news")]
 public class NewsArticlesController : ControllerBase
 {
     private readonly NewsArticleRepository _repo;
     public NewsArticlesController(NewsArticleRepository repo) => _repo = repo;
 
+    [AllowAnonymous]
     [HttpGet("public"), EnableQuery]
     public async Task<IActionResult> Public([FromQuery] string? search = null) => Ok((await _repo.GetAllAsync(search, activeOnly: true)).AsQueryable());
 
+    [AllowAnonymous]
     [HttpGet("public/{id}")]
     public async Task<IActionResult> PublicOne(string id)
     {
         var e = await _repo.GetAsync(id, true); return e == null ? NotFound() : Ok(e);
     }
 
+    [Authorize(Roles = "Staff")]
     [HttpGet, EnableQuery]
     public async Task<IActionResult> Get([FromQuery] string? search = null)
     {
@@ -31,6 +36,7 @@ public class NewsArticlesController : ControllerBase
         return Ok((await _repo.GetAllAsync(search)).AsQueryable());
     }
 
+    [Authorize(Roles = "Staff")]
     [HttpGet("history"), EnableQuery]
     public async Task<IActionResult> History()
     {
@@ -41,6 +47,7 @@ public class NewsArticlesController : ControllerBase
         return Ok((await _repo.GetAllAsync(createdById: id)).AsQueryable());
     }
 
+    [Authorize(Roles = "Staff")]
     [HttpPost]
     public async Task<IActionResult> Create(NewsArticleUpsertDto dto)
     {
@@ -52,6 +59,7 @@ public class NewsArticlesController : ControllerBase
         var r = await _repo.CreateAsync(dto, id.Value); return r.ok ? Ok(r.data) : BadRequest(new { message = r.message });
     }
 
+    [Authorize(Roles = "Staff")]
     [HttpPut("{id}")]
     public async Task<IActionResult> Update(string id, NewsArticleUpsertDto dto)
     {
@@ -63,6 +71,7 @@ public class NewsArticlesController : ControllerBase
         var r = await _repo.UpdateAsync(id, dto, uid.Value); return r.ok ? Ok(new { message = r.message }) : BadRequest(new { message = r.message });
     }
 
+    [Authorize(Roles = "Staff")]
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(string id)
     {

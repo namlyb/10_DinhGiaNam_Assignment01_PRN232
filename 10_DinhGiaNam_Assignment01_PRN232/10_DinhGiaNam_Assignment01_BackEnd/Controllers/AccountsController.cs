@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OData.Query;
 using _10_DinhGiaNam_Assignment01_BackEnd.DTOs;
@@ -6,12 +7,14 @@ using _10_DinhGiaNam_Assignment01_BackEnd.Repositories;
 namespace _10_DinhGiaNam_Assignment01_BackEnd.Controllers;
 
 [ApiController]
+[Authorize]
 [Route("api/accounts")]
 public class AccountsController : ControllerBase
 {
     private readonly SystemAccountRepository _repo;
     public AccountsController(SystemAccountRepository repo) => _repo = repo;
 
+    [Authorize(Roles = "Admin")]
     [HttpGet, EnableQuery]
     public async Task<IActionResult> Get([FromQuery] string? search = null)
     {
@@ -32,6 +35,7 @@ public class AccountsController : ControllerBase
         var e = await _repo.GetAsync(id); return e == null ? NotFound() : Ok(e);
     }
 
+    [Authorize(Roles = "Admin")]
     [HttpPost]
     public async Task<IActionResult> Create(AccountUpsertDto dto)
     {
@@ -56,6 +60,7 @@ public class AccountsController : ControllerBase
         var r = await _repo.UpdateAsync(id, dto); return r.ok ? Ok(new { message = r.message }) : BadRequest(new { message = r.message });
     }
 
+    [Authorize(Roles = "Admin")]
     [HttpDelete("{id:int}")]
     public async Task<IActionResult> Delete(short id)
     {

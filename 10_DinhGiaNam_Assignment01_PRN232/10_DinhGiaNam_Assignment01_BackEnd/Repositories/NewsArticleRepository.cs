@@ -46,9 +46,18 @@ public class NewsArticleRepository
         var tags = await db.Tags.Where(x => dto.TagIds.Contains(x.TagId)).ToListAsync();
         var e = new NewsArticle
         {
-            NewsArticleId = await NextIdAsync(db), NewsTitle = dto.NewsTitle?.Trim(), Headline = dto.Headline.Trim(), CreatedDate = DateTime.Now,
-            NewsContent = dto.NewsContent?.Trim(), NewsSource = dto.NewsSource?.Trim(), CategoryId = dto.CategoryId, NewsStatus = dto.NewsStatus,
-            CreatedById = staffId, UpdatedById = staffId, ModifiedDate = DateTime.Now, Tags = tags
+            NewsArticleId = await NextIdAsync(db),
+            NewsTitle = dto.NewsTitle?.Trim(),
+            Headline = dto.Headline.Trim(),
+            CreatedDate = DateTime.Now,
+            NewsContent = dto.NewsContent?.Trim(),
+            NewsSource = dto.NewsSource?.Trim(),
+            CategoryId = dto.CategoryId,
+            NewsStatus = dto.NewsStatus,
+            CreatedById = staffId,
+            UpdatedById = staffId,
+            ModifiedDate = DateTime.Now,
+            Tags = tags
         };
         db.NewsArticles.Add(e); await db.SaveChangesAsync(); return (true, "Created successfully.", e);
     }

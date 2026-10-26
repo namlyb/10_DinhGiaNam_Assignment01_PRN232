@@ -38,6 +38,7 @@ public class SystemAccountRepository
     {
         await using var db = await _factory.CreateDbContextAsync();
         if (await db.SystemAccounts.AnyAsync(x => x.AccountEmail == dto.AccountEmail)) return (false, "Email already exists.", null);
+        if (string.IsNullOrWhiteSpace(dto.AccountPassword) || dto.AccountPassword.Length < 2) return (false, "Password must have at least 2 characters.", null);
         short id = (short)((await db.SystemAccounts.MaxAsync(x => (short?)x.AccountId) ?? 0) + 1);
         var entity = new SystemAccount { AccountId = id, AccountName = dto.AccountName.Trim(), AccountEmail = dto.AccountEmail.Trim(), AccountRole = dto.AccountRole, AccountPassword = dto.AccountPassword };
         db.SystemAccounts.Add(entity);
@@ -51,7 +52,7 @@ public class SystemAccountRepository
         var entity = await db.SystemAccounts.FindAsync(id);
         if (entity == null) return (false, "Account not found.");
         if (await db.SystemAccounts.AnyAsync(x => x.AccountEmail == dto.AccountEmail && x.AccountId != id)) return (false, "Email already exists.");
-        entity.AccountName = dto.AccountName.Trim(); entity.AccountEmail = dto.AccountEmail.Trim(); entity.AccountRole = dto.AccountRole; entity.AccountPassword = dto.AccountPassword;
+        entity.AccountName = dto.AccountName.Trim(); entity.AccountEmail = dto.AccountEmail.Trim(); entity.AccountRole = dto.AccountRole; if (!string.IsNullOrWhiteSpace(dto.AccountPassword)) entity.AccountPassword = dto.AccountPassword;
         await db.SaveChangesAsync();
         return (true, "Updated successfully.");
     }

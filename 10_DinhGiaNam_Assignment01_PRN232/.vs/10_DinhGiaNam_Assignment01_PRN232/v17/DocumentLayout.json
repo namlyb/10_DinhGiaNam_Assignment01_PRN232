@@ -3,64 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\10_dinhgianam_assignment01_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\10_dinhgianam_assignment01_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\dataaccess\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\dataaccess\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\dtos\\apidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\dtos\\apidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\repositories\\systemaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\dtos\\apidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\dtos\\apidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\dataaccess\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\dataaccess\\funewsmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\newsarticlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\controllerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\controllerhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -71,6 +87,18 @@
       "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\models\\viewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,20 +107,32 @@
       "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32ECA020-0EE2-476D-AB49-D4185FD270F8}|10_DinhGiaNam_Assignment01_FrontEnd\\10_DinhGiaNam_Assignment01_FrontEnd.csproj|solutionrelative:10_dinhgianam_assignment01_frontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\10_dinhgianam_assignment01_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\10_dinhgianam_assignment01_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|solutionrelative:10_dinhgianam_assignment01_backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13840CD1-5DC8-48F9-AE73-B5603118B4BB}|10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj|c:\\users\\nam\\desktop\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_prn232\\10_dinhgianam_assignment01_backend\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -129,8 +169,415 @@
               "Name": "ST:23:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\TagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:21:39.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\appsettings.json",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T18:58:53.251Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Program.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:50:08.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Program.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Program.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T20:00:31.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\WeatherForecast.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:54:23.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SystemAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\SystemAccountRepository.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\SystemAccountRepository.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\SystemAccountRepository.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\SystemAccountRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:21:19.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsArticleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\NewsArticleRepository.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\NewsArticleRepository.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\NewsArticleRepository.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\NewsArticleRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:21:04.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\TagsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:11:16.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FUNewsManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\DataAccess\\FUNewsManagementContext.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\DataAccess\\FUNewsManagementContext.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\DataAccess\\FUNewsManagementContext.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\DataAccess\\FUNewsManagementContext.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAmwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:48:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApiDtos.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\DTOs\\ApiDtos.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\DTOs\\ApiDtos.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\DTOs\\ApiDtos.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\DTOs\\ApiDtos.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA7wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:03:01.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Models\\Category.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T19:53:59.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:26:49.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NewsArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\NewsArticlesController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\NewsArticlesController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\NewsArticlesController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\NewsArticlesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:42:57.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ControllerHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ControllerHelpers.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ControllerHelpers.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ControllerHelpers.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ControllerHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:09:49.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA4wDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T22:33:58.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:43:43.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T22:18:30.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\appsettings.json",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T20:00:28.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:42:36.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T04:01:10.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Accounts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T03:59:14.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Services\\ApiClient.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Services\\ApiClient.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Services\\ApiClient.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:06:21.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Models\\ViewModels.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Models\\ViewModels.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Models\\ViewModels.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Models\\ViewModels.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:06:13.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:06:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:00:45.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T17:00:33.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Properties\\launchSettings.json",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-04T22:29:28.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:44:19.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:44:39.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:44:07.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T03:03:13.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "10_DinhGiaNam_Assignment01_BackEnd.csproj",
               "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj",
               "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj",
@@ -138,119 +585,11 @@
               "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\10_DinhGiaNam_Assignment01_BackEnd.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-04T22:18:01.495Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-04T22:18:01.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T22:33:58.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAIwDQAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T22:18:30.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NewsArticlesController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\NewsArticlesController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\NewsArticlesController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\NewsArticlesController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\NewsArticlesController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:42:57.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AccountsController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AccountsController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AccountsController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AccountsController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:03:13.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:26:49.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FUNewsManagementContext.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\DataAccess\\FUNewsManagementContext.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\DataAccess\\FUNewsManagementContext.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\DataAccess\\FUNewsManagementContext.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\DataAccess\\FUNewsManagementContext.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:48:30.612Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApiDtos.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\DTOs\\ApiDtos.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\DTOs\\ApiDtos.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\DTOs\\ApiDtos.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\DTOs\\ApiDtos.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:03:01.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\appsettings.json",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\appsettings.json",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\appsettings.json",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-04T18:58:53.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 32,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Properties\\launchSettings.json",
@@ -262,163 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\appsettings.json",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\appsettings.json",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\appsettings.json",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-04T20:00:28.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Program.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Program.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T20:00:31.66Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Program.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Program.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:50:08.582Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\WeatherForecast.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:54:23.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Properties\\launchSettings.json",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-04T22:29:28.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Accounts\\Index.cshtml",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Accounts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Accounts\\Index.cshtml",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Accounts\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-06T03:59:14.873Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-06T04:01:10.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ProfileController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ProfileController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ProfileController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ProfileController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\ProfileController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:44:39.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ReportsController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ReportsController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ReportsController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ReportsController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\ReportsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:43:43.411Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:44:07.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "NewsController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\NewsController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\NewsController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\NewsController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_FrontEnd\\Controllers\\NewsController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBYAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:44:19.399Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T03:42:36.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Models\\Category.cs",
-              "RelativeToolTip": "10_DinhGiaNam_Assignment01_BackEnd\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-04T19:53:59.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 35,
               "Title": "NewsArticle.cs",
               "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Models\\NewsArticle.cs",
               "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Models\\NewsArticle.cs",
@@ -430,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "SystemAccount.cs",
               "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Models\\SystemAccount.cs",
               "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Models\\SystemAccount.cs",
@@ -442,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\nam\\Desktop\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_PRN232\\10_DinhGiaNam_Assignment01_BackEnd\\Models\\Tag.cs",
               "RelativeDocumentMoniker": "10_DinhGiaNam_Assignment01_BackEnd\\Models\\Tag.cs",
