@@ -18,7 +18,10 @@ public class CategoriesController : ControllerBase
     [HttpPost]
     public async Task<IActionResult> Create(CategoryUpsertDto dto)
     {
-        if (!ControllerHelpers.IsStaff(Request)) return Forbid();
+        if (!ControllerHelpers.IsStaff(Request)) return StatusCode(
+    StatusCodes.Status403Forbidden,
+    new { message = "Forbidden" }
+);
         if (!ModelState.IsValid) return ValidationProblem(ModelState);
         return Ok(await _repo.CreateAsync(dto));
     }
@@ -26,7 +29,10 @@ public class CategoriesController : ControllerBase
     [HttpPut("{id:int}")]
     public async Task<IActionResult> Update(short id, CategoryUpsertDto dto)
     {
-        if (!ControllerHelpers.IsStaff(Request)) return Forbid();
+        if (!ControllerHelpers.IsStaff(Request)) return StatusCode(
+    StatusCodes.Status403Forbidden,
+    new { message = "Forbidden" }
+);
         if (!ModelState.IsValid) return ValidationProblem(ModelState);
         var r = await _repo.UpdateAsync(id, dto); return r.ok ? Ok(new { message = r.message }) : BadRequest(new { message = r.message });
     }
@@ -34,7 +40,10 @@ public class CategoriesController : ControllerBase
     [HttpDelete("{id:int}")]
     public async Task<IActionResult> Delete(short id)
     {
-        if (!ControllerHelpers.IsStaff(Request)) return Forbid();
+        if (!ControllerHelpers.IsStaff(Request)) return StatusCode(
+    StatusCodes.Status403Forbidden,
+    new { message = "Forbidden" }
+);
         var r = await _repo.DeleteAsync(id); return r.ok ? Ok(new { message = r.message }) : BadRequest(new { message = r.message });
     }
 }
