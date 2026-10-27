@@ -2380,8 +2380,7 @@
       "AccountUpsertDto": {
         "required": [
           "accountEmail",
-          "accountName",
-          "accountPassword"
+          "accountName"
         ],
         "type": "object",
         "properties": {
@@ -2404,8 +2403,9 @@
           },
           "accountPassword": {
             "maxLength": 70,
-            "minLength": 2,
-            "type": "string"
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

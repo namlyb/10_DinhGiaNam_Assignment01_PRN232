@@ -14,14 +14,16 @@ public class LoginResponse
     public string Name { get; set; } = "";
     public string Email { get; set; } = "";
     public string Role { get; set; } = "";
+    public string Token { get; set; } = "";
+    public DateTime ExpiresAtUtc { get; set; }
 }
 
 public class AccountUpsertDto
 {
     [Required, StringLength(100)] public string AccountName { get; set; } = "";
     [Required, EmailAddress, StringLength(70)] public string AccountEmail { get; set; } = "";
-    [Range(1,2)] public int AccountRole { get; set; }
-    [Required, StringLength(70, MinimumLength = 2)] public string AccountPassword { get; set; } = "";
+    [Range(1, 2)] public int AccountRole { get; set; }
+    [StringLength(70)] public string AccountPassword { get; set; } = "";
 }
 
 public class CategoryUpsertDto

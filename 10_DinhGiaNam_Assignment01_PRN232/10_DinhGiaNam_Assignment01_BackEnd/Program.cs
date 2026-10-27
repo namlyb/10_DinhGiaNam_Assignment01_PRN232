@@ -10,8 +10,8 @@ using _10_DinhGiaNam_Assignment01_BackEnd.Models;
 using _10_DinhGiaNam_Assignment01_BackEnd.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
-    ?? throw new InvalidOperationException("Connection string 'DefaultConnection' was not found.");
+var connectionString = builder.Configuration.GetConnectionString("MyCnn")
+    ?? throw new InvalidOperationException("Connection string 'MyCnn' was not found.");
 
 builder.Services.AddDbContextFactory<FUNewsManagementContext>(opt => opt.UseSqlServer(connectionString), ServiceLifetime.Singleton);
 
