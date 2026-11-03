@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: 5a162555-a8c1-4a74-89d2-d7b8cfb22450
+
+localResources:
+  specs:
+    - ../10_DinhGiaNam_Assignment01_PRN232/10_DinhGiaNam_Assignment01_BackEnd/obj/Debug/net8.0/EndpointInfo/10_DinhGiaNam_Assignment01_BackEnd.json
